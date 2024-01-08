@@ -42,7 +42,7 @@ function App() {
         </ul>
       )}
       <p>
-        Open source code by <a href='https://github.com/MundiaNderi/weather-app.git'>Serah Nderi</a> hosted on <a href='#'>Netlify</a>
+        Open source code by <a href='https://github.com/MundiaNderi/weather-app.git'>Serah Nderi</a> hosted on <a href='https://funny-faun-9f2523.netlify.app'>Netlify</a>
       </p>
     </div>
   );
